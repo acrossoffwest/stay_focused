@@ -1,6 +1,6 @@
 # Stay Focused
 
-Background process for staing focused. Killing distracting applications during working day.
+Background process for staying focused. Killing distracting applications during working day.
 
 ### Config file
 
