@@ -14,11 +14,11 @@ Stay Focused is a background process for staying focused during your working day
 1. Install [Go](https://golang.org/doc/install) if you haven't already.
 2. Clone this repository:
 ```
-git clone https://github.com/yourusername/stay-focused.git
+git clone https://github.com/acrossoffwest/stay_focused.git
 ```
 3. Change to the project directory:
 ```
-cd stay-focused
+cd stay_focused
 ```
 4. Build the project:
 ```
