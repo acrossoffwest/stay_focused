@@ -8,12 +8,11 @@ Background process for staying focused. Killing distracting applications during 
     {
         "time": {
             "start": "09:00",
-            "start": "18:00"
+            "end": "18:00"
         },
         "applications": [
-            "skype",
-            "viber",
+            "Skype",
             ...,
-            "telegram"
+            "Telegram"
         ],
     }
